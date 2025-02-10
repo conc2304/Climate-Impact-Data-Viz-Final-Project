@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vis-final/static/css/main.8ba0f569.css",
-    "main.js": "/vis-final/static/js/main.a1ee166f.js",
-    "static/js/787.44888680.chunk.js": "/vis-final/static/js/787.44888680.chunk.js",
-    "static/media/Oxanium-ExtraLight.ttf": "/vis-final/static/media/Oxanium-ExtraLight.ff80b254cacf17e95950.ttf",
-    "static/media/Mechanization.ttf": "/vis-final/static/media/Mechanization.a08ba13578ec125650d4.ttf",
-    "static/media/Oxanium-SemiBold.ttf": "/vis-final/static/media/Oxanium-SemiBold.11dad28c0c082972d309.ttf",
-    "static/media/Glitch inside.otf": "/vis-final/static/media/Glitch inside.3f7b15ff85feaffa9dad.otf",
-    "static/media/click-icon.svg": "/vis-final/static/media/click-icon.707508623ca60d93dea2b0b0133645af.svg",
-    "static/media/bad-weather.svg": "/vis-final/static/media/bad-weather.d6486ca0acc7ddeab2206cf4d4e72191.svg",
-    "static/media/chevron-arrow-right.svg": "/vis-final/static/media/chevron-arrow-right.d4b9ff0b4b9c7a8a37da684b7543278f.svg",
-    "index.html": "/vis-final/index.html",
-    "main.8ba0f569.css.map": "/vis-final/static/css/main.8ba0f569.css.map",
-    "main.a1ee166f.js.map": "/vis-final/static/js/main.a1ee166f.js.map",
-    "787.44888680.chunk.js.map": "/vis-final/static/js/787.44888680.chunk.js.map"
+    "main.css": "/Climate-Impact-Data-Viz-Final-Project/static/css/main.64961144.css",
+    "main.js": "/Climate-Impact-Data-Viz-Final-Project/static/js/main.0d456c6d.js",
+    "static/js/787.44888680.chunk.js": "/Climate-Impact-Data-Viz-Final-Project/static/js/787.44888680.chunk.js",
+    "static/media/Oxanium-ExtraLight.ttf": "/Climate-Impact-Data-Viz-Final-Project/static/media/Oxanium-ExtraLight.ff80b254cacf17e95950.ttf",
+    "static/media/Mechanization.ttf": "/Climate-Impact-Data-Viz-Final-Project/static/media/Mechanization.a08ba13578ec125650d4.ttf",
+    "static/media/Oxanium-SemiBold.ttf": "/Climate-Impact-Data-Viz-Final-Project/static/media/Oxanium-SemiBold.11dad28c0c082972d309.ttf",
+    "static/media/Glitch inside.otf": "/Climate-Impact-Data-Viz-Final-Project/static/media/Glitch inside.3f7b15ff85feaffa9dad.otf",
+    "static/media/click-icon.svg": "/Climate-Impact-Data-Viz-Final-Project/static/media/click-icon.707508623ca60d93dea2b0b0133645af.svg",
+    "static/media/bad-weather.svg": "/Climate-Impact-Data-Viz-Final-Project/static/media/bad-weather.d6486ca0acc7ddeab2206cf4d4e72191.svg",
+    "static/media/chevron-arrow-right.svg": "/Climate-Impact-Data-Viz-Final-Project/static/media/chevron-arrow-right.d4b9ff0b4b9c7a8a37da684b7543278f.svg",
+    "index.html": "/Climate-Impact-Data-Viz-Final-Project/index.html",
+    "main.64961144.css.map": "/Climate-Impact-Data-Viz-Final-Project/static/css/main.64961144.css.map",
+    "main.0d456c6d.js.map": "/Climate-Impact-Data-Viz-Final-Project/static/js/main.0d456c6d.js.map",
+    "787.44888680.chunk.js.map": "/Climate-Impact-Data-Viz-Final-Project/static/js/787.44888680.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ba0f569.css",
-    "static/js/main.a1ee166f.js"
+    "static/css/main.64961144.css",
+    "static/js/main.0d456c6d.js"
   ]
 }
