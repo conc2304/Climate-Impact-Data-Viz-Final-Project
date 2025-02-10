@@ -13,9 +13,9 @@ Team Members:
 - Jose Conchello-Bueyes - <jose.conchello@gmail.com>
 - Ben Fulroth - <fulrothb@me.com>
 - Patrick Niebrzydowski - <pan212@g.harvard.edu> (team leader)
-
+  
 Application URL: <https://conc2304.github.io/vis-final/>
-TEST
+
 Source code:   <https://github.com/conc2304/Climate-Impact-Data-Viz-Final-Project>
 Screencast:  <https://www.youtube.com/watch?v=29FGDYg1OEY>
 
@@ -40,7 +40,7 @@ For this exploration will be using the Global Temperature Anomaly scale. To find
 On the exploration page, users are encouraged to explore and interact with this data to gain meaningful insights.
 The heatmap of the US is the focal point of this page.  Here users can quickly visualize what states are the most impacted. Throughout this page we highlight the top 3 most impacted states based on the metrics selected. Clicking on any state updates all of the auxiliary charts to show different insights into the data with the addition of the selected state.
 
-The Global Temperature graph is the secondary point of interaction.
+The Global Temperature graph is the secondary point of interaction.  
 Here users can zoom and scrub through the data and watch the data change.
 This allows users to filter by years as well as play through it by dragging the selection.
 
