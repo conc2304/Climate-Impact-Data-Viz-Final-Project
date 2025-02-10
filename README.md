@@ -4,45 +4,47 @@
 
 ## Planet Habitability
 
-Team Name:	 	The Three Planeteers
+Team Name:   The Three Planeteers
 
-Title:			Planet Habitability
+Title:   Planet Habitability
 
-Team Members:	
-- Jose Conchello-Bueyes - jose.conchello@gmail.com
-- Ben Fulroth - fulrothb@me.com
-- Patrick Niebrzydowski - pan212@g.harvard.edu (team leader)
-  
-Application URL:	https://conc2304.github.io/vis-final/ 
+Team Members:
 
-Source code: 		https://github.com/conc2304/vis-final 
+- Jose Conchello-Bueyes - <jose.conchello@gmail.com>
+- Ben Fulroth - <fulrothb@me.com>
+- Patrick Niebrzydowski - <pan212@g.harvard.edu> (team leader)
 
-Screencast:		https://www.youtube.com/watch?v=29FGDYg1OEY   
+Application URL: <https://conc2304.github.io/vis-final/>
+TEST
+Source code:   <https://github.com/conc2304/Climate-Impact-Data-Viz-Final-Project>
+Screencast:  <https://www.youtube.com/watch?v=29FGDYg1OEY>
 
-Process Book PDF: https://github.com/conc2304/vis-final/blob/final_docs/Process%20Book%20-%20CS%20171%20-%20Planet%20Habitability%20.pdf 
+Process Book PDF: <https://github.com/conc2304/vis-final/blob/final_docs/Process%20Book%20-%20CS%20171%20-%20Planet%20Habitability%20.pdf>
 <br>
 <br>
 
 ## Project Overview
-As part of this project we wanted to find out how rising temperatures are affecting severe weather patterns in the US. 
-Are there trends and correlations? 
-How is severe weather impacting us and who stands to be the most impacted by rising temperatures? 
+
+As part of this project we wanted to find out how rising temperatures are affecting severe weather patterns in the US.
+Are there trends and correlations?
+How is severe weather impacting us and who stands to be the most impacted by rising temperatures?
 
 ### Home Page
+
 On our home page we travel through time to show our users how rising temperatures and the increasing frequency of severe weather events in each state over the years are correlated.
 
 For this exploration will be using the Global Temperature Anomaly scale. To find out more about why we use this scale there is an 'info' button on the Home page and the Explorations page to explain what it is, what it means, and why it is used.
 
 ### Explorations Page
+
 On the exploration page, users are encouraged to explore and interact with this data to gain meaningful insights.
 The heatmap of the US is the focal point of this page.  Here users can quickly visualize what states are the most impacted. Throughout this page we highlight the top 3 most impacted states based on the metrics selected. Clicking on any state updates all of the auxiliary charts to show different insights into the data with the addition of the selected state.
 
-
-The Global Temperature graph is the secondary point of interaction.  
+The Global Temperature graph is the secondary point of interaction.
 Here users can zoom and scrub through the data and watch the data change.
 This allows users to filter by years as well as play through it by dragging the selection.
 
-We divided our data into 2 primary segments: 
+We divided our data into 2 primary segments:
 by metrics and by storm event types.
 
 Selecting different combinations will update all of the charts to reveal who is most impacted by these  segmentations.
@@ -57,6 +59,7 @@ The radar graphs on the left allow users to get a snapshot comparison of the dif
 Users can hover over an area or a data point to get more granularity into these metrics.
 
 ### Final Page
+
 We have reached the end of our data exploration journey. But what does this all mean for the rest of civilization's journey through an increasingly warming world.
 
 We now encourage our users to take an even deeper look into the data if they want to with the resources that we used.
