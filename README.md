@@ -14,12 +14,12 @@ Team Members:
 - Ben Fulroth - <fulrothb@me.com>
 - Patrick Niebrzydowski - <pan212@g.harvard.edu> (team leader)
 
-Application URL: <https://conc2304.github.io/vis-final/>
+Application URL: <https://conc2304.github.io/Climate-Impact-Data-Viz-Final-Project/>
 
 Source code:   <https://github.com/conc2304/Climate-Impact-Data-Viz-Final-Project>
 Screencast:  <https://www.youtube.com/watch?v=29FGDYg1OEY>
 
-Process Book PDF: <https://github.com/conc2304/vis-final/blob/final_docs/Process%20Book%20-%20CS%20171%20-%20Planet%20Habitability%20.pdf>
+Process Book PDF: <https://github.com/conc2304/Climate-Impact-Data-Viz-Final-Project/blob/final_docs/Process%20Book%20-%20CS%20171%20-%20Planet%20Habitability%20.pdf>
 <br>
 <br>
 

@@ -1,7 +1,7 @@
 {
   "name": "vis-final",
   "version": "0.1.0",
-  "homepage": "https://conc2304.github.io/vis-final",
+  "homepage": "https://conc2304.github.io/Climate-Impact-Data-Viz-Final-Project/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",

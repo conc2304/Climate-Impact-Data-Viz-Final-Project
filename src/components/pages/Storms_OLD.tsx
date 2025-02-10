@@ -90,7 +90,7 @@ const StormsPage = () => {
   };
 
   useEffect(() => {
-    const promises = [d3.json('/vis-final/data/Storm_Data_Sums.json')];
+    const promises = [d3.json('/Climate-Impact-Data-Viz-Final-Project/data/Storm_Data_Sums.json')];
 
     Promise.all(promises).then((data) => {
       const filledData = fillGlobalData(data[0] as StormDataType[]);
@@ -258,7 +258,7 @@ const StormsPage = () => {
                 </div>
                 <div style={{ height: '60%' }}>
                   <HeatMap
-                  topStatesList={[]}
+                    topStatesList={[]}
                     yearFilter={selectedBrushYears}
                     stormData={stormData}
                     regionSelected={selectedGeoRegion}

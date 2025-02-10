@@ -91,7 +91,7 @@ const StormsPage = () => {
   };
 
   useEffect(() => {
-    const promises = [d3.json('/vis-final/data/Storm_Data_Sums.json')];
+    const promises = [d3.json('/Climate-Impact-Data-Viz-Final-Project/data/Storm_Data_Sums.json')];
 
     Promise.all(promises).then((data) => {
       const filledData = fillGlobalData(data[0] as StormDataType[]);
@@ -180,9 +180,10 @@ const StormsPage = () => {
               <div className="d-flex align-items-center justify-content-center">
                 <img className="storm-icon" src={SevereWeatherSvg} />
                 <h1 className="flicker-container p-2 pb-4 fs-2">
-                  <span className='text-glitch'>Severe</span> <span className='text-glitch'>Weather </span>
-                  <span className='text-glitch'>in the </span>
-                  <span className='text-glitch'>USA</span>
+                  <span className="text-glitch">Severe</span>{' '}
+                  <span className="text-glitch">Weather </span>
+                  <span className="text-glitch">in the </span>
+                  <span className="text-glitch">USA</span>
                 </h1>
                 <img className="storm-icon flip-x" src={SevereWeatherSvg} />
               </div>
